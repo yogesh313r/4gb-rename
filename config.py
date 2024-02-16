@@ -11,6 +11,7 @@ BOT_USERNAME = os.environ.get("BOT_USERNAME","Renamebott_bot") # username withou
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP","BYNF_TamilChat") # username without '@'
 UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL","ATL_Univers") # username without '@'
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME","Yogi_YogiBot")
+STRING = os.environ.get("STRING","HI")
 
 DB_NAME = os.environ.get("DB_NAME","renameone")     
 DB_URL = os.environ.get("DB_URL","mongodb+srv://karthickjk:karthick@cluster0.vcjskkq.mongodb.net/?retryWrites=true&w=majority")
