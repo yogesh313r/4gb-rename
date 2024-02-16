@@ -1,10 +1,10 @@
 # A Docker web service
   - type: web
-    name: fffgeedwtgg
+    name: Yogesh
     env: python
     startCommand: python3 bot.py
     buildCommand: pip3 install -U -r requirements.txt
-    repo: https://github.com/Maheshbot99/fffgeedwtgg.git # optional
+    repo: https://github.com/yogesh313r/4gb-rename.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     branch: main # optional (defaults to master)
